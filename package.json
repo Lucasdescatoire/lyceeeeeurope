@@ -1,0 +1,14 @@
+{
+  "name": "Vue Material - Overlapping content",
+  "keywords": [
+    "vue-material",
+    "material-design",
+    "vue"
+  ],
+  "dependencies": {
+    "@vue/babel-preset-app": "4.5.8",
+    "vue": "latest",
+    "vue-material": "latest",
+    "vue-router": "3.4.7"
+  }
+}
